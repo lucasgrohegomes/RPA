@@ -1,0 +1,7 @@
+
+START - automation started - Mon May 27 2024 17:13:16 GMT-0300 (Hora oficial do Brasil)
+
+LIVE MODE - type done to quit
+ [RPA][STARTED]
+[RPA][0] - listening for inputs
+[RPA][1] - present_result = present('excelAberto.png').toString()

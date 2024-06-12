@@ -66,4 +66,6 @@ with open('logo.png', 'wb') as file:
 
 navegador.close()
 
-# img = openpyxl.drawing.image.Image('logo.png')
+img = openpyxl.drawing.image.Image('logo.png')
+ws1.add_image(img, 'A1')
+wb.save(filename=r'C:\Users\lucas.gomes\Desktop\meu_arquivo_teste.xlsx')

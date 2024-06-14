@@ -1,12 +1,26 @@
 
-START - automation started - Wed Jun 12 2024 17:27:46 GMT-0300 (Hora oficial do Brasil)
+START - automation started - Fri Jun 14 2024 17:30:33 GMT-0300 (Hora oficial do Brasil)
 
 LIVE MODE - type done to quit
  [RPA][STARTED]
 [RPA][0] - listening for inputs
-[RPA][1] - https://br.advfn.com/monitor/
+[RPA][1] - https://br.advfn.com/p.php?pid=front&logout=1
 [RPA][1] - listening for inputs
-[RPA][2] - exist_result = exist('xpath=//*[@id="afnmainbodid"]/div[1]/div/div[5]/a[1]').toString()
+[RPA][2] - exist_result = exist('/html/body/div/div[2]/div[2]/div/form/div[1]/input').toString()
 [RPA][2] - listening for inputs
 [RPA][3] - dump exist_result to rpa_python.txt
 [RPA][3] - listening for inputs
+[RPA][4] - click /html/body/div/div[2]/div[2]/div/form/div[1]/input
+[RPA][4] - listening for inputs
+[RPA][5] - exist_result = exist('//*[@id="afnmainbodid"]/div/div[2]/div[2]/div/form/div[1]/input').toString()
+[RPA][5] - listening for inputs
+[RPA][6] - dump exist_result to rpa_python.txt
+[RPA][6] - listening for inputs
+[RPA][7] - type //*[@id="afnmainbodid"]/div/div[2]/div[2]/div/form/div[1]/input as lucasgomes2
+[RPA][7] - listening for inputs
+[RPA][8] - exist_result = exist('//*[@id="password-input"]').toString()
+[RPA][8] - listening for inputs
+[RPA][9] - dump exist_result to rpa_python.txt
+[RPA][9] - listening for inputs
+[RPA][10] - type //*[@id="password-input"] as Lucasgg10*[enter]
+[RPA][10] - listening for inputs

@@ -1,0 +1,309 @@
+
+START - automation started - Mon Jul 01 2024 17:01:03 GMT-0300 (Hora oficial do Brasil)
+
+LIVE MODE - type done to quit
+ [RPA][STARTED]
+[RPA][0] - listening for inputs
+[RPA][1] - present_result = present('bennerAberto.png').toString()
+[RPA][1] - listening for inputs
+[RPA][2] - dump present_result to rpa_python.txt
+[RPA][2] - listening for inputs
+[RPA][3] - present_result = present('bennerAberto.png').toString()
+[RPA][3] - listening for inputs
+[RPA][4] - dump present_result to rpa_python.txt
+[RPA][4] - listening for inputs
+[RPA][5] - present_result = present('usuarioBenner.png').toString()
+[RPA][5] - listening for inputs
+[RPA][6] - dump present_result to rpa_python.txt
+[RPA][6] - listening for inputs
+[RPA][7] - present_result = present('usuarioBenner.png').toString()
+[RPA][7] - listening for inputs
+[RPA][8] - dump present_result to rpa_python.txt
+[RPA][8] - listening for inputs
+[RPA][9] - exist_result = exist('usuarioBenner.png').toString()
+[RPA][9] - listening for inputs
+[RPA][10] - dump exist_result to rpa_python.txt
+[RPA][10] - listening for inputs
+[RPA][11] - click usuarioBenner.png
+[RPA][11] - listening for inputs
+[RPA][12] - present_result = present('senhaBenner.png').toString()
+[RPA][12] - listening for inputs
+[RPA][13] - dump present_result to rpa_python.txt
+[RPA][13] - listening for inputs
+[RPA][14] - exist_result = exist('senhaBenner.png').toString()
+[RPA][14] - listening for inputs
+[RPA][15] - dump exist_result to rpa_python.txt
+[RPA][15] - listening for inputs
+[RPA][16] - click senhaBenner.png
+[RPA][16] - listening for inputs
+[RPA][17] - present_result = present('okBotao.png').toString()
+[RPA][17] - listening for inputs
+[RPA][18] - dump present_result to rpa_python.txt
+[RPA][18] - listening for inputs
+[RPA][19] - exist_result = exist('okBotao.png').toString()
+[RPA][19] - listening for inputs
+[RPA][20] - dump exist_result to rpa_python.txt
+[RPA][20] - listening for inputs
+[RPA][21] - click okBotao.png
+[RPA][21] - listening for inputs
+[RPA][22] - present_result = present('aba.png').toString()
+[RPA][22] - listening for inputs
+[RPA][23] - dump present_result to rpa_python.txt
+[RPA][23] - listening for inputs
+[RPA][24] - exist_result = exist('casaEntidade.png').toString()
+[RPA][24] - listening for inputs
+[RPA][25] - dump exist_result to rpa_python.txt
+[RPA][25] - listening for inputs
+[RPA][26] - click casaEntidade.png
+[RPA][26] - listening for inputs
+[RPA][27] - exist_result = exist('diminuirLista.png').toString()
+[RPA][27] - listening for inputs
+[RPA][28] - dump exist_result to rpa_python.txt
+[RPA][28] - listening for inputs
+[RPA][29] - click diminuirLista.png
+[RPA][29] - listening for inputs
+[RPA][30] - exist_result = exist('selecionarSESI.png').toString()
+[RPA][30] - listening for inputs
+[RPA][31] - dump exist_result to rpa_python.txt
+[RPA][31] - listening for inputs
+[RPA][32] - dclick selecionarSESI.png
+[RPA][32] - listening for inputs
+[RPA][33] - exist_result = exist('botaoTF.png').toString()
+[RPA][33] - listening for inputs
+[RPA][34] - dump exist_result to rpa_python.txt
+[RPA][34] - listening for inputs
+[RPA][35] - dclick botaoTF.png
+[RPA][35] - listening for inputs
+[RPA][36] - present_result = present('ativoDesselecionado.png').toString()
+[RPA][36] - listening for inputs
+[RPA][37] - dump present_result to rpa_python.txt
+[RPA][37] - listening for inputs
+[RPA][38] - exist_result = exist('grupoRelatorios.png').toString()
+[RPA][38] - listening for inputs
+[RPA][39] - dump exist_result to rpa_python.txt
+[RPA][39] - listening for inputs
+[RPA][40] - dclick grupoRelatorios.png
+[RPA][40] - listening for inputs
+[RPA][41] - exist_result = exist('inventariosSESI.png').toString()
+[RPA][41] - listening for inputs
+[RPA][42] - dump exist_result to rpa_python.txt
+[RPA][42] - listening for inputs
+[RPA][43] - dclick inventariosSESI.png
+[RPA][43] - listening for inputs
+[RPA][44] - exist_result = exist('relatorios.png').toString()
+[RPA][44] - listening for inputs
+[RPA][45] - dump exist_result to rpa_python.txt
+[RPA][45] - listening for inputs
+[RPA][46] - dclick relatorios.png
+[RPA][46] - listening for inputs
+[RPA][47] - exist_result = exist('bensPorLocalizacao.png').toString()
+[RPA][47] - listening for inputs
+[RPA][48] - dump exist_result to rpa_python.txt
+[RPA][48] - listening for inputs
+[RPA][49] - click bensPorLocalizacao.png
+[RPA][49] - listening for inputs
+[RPA][50] - exist_result = exist('imprimirRelatorio.png').toString()
+[RPA][50] - listening for inputs
+[RPA][51] - dump exist_result to rpa_python.txt
+[RPA][51] - listening for inputs
+[RPA][52] - click imprimirRelatorio.png
+[RPA][52] - listening for inputs
+[RPA][53] - exist_result = exist('selecionarAT_ITENS.png').toString()
+[RPA][53] - listening for inputs
+[RPA][54] - dump exist_result to rpa_python.txt
+[RPA][54] - listening for inputs
+[RPA][55] - click selecionarAT_ITENS.png
+[RPA][55] - listening for inputs
+[RPA][56] - exist_result = exist('monitor.png').toString()
+[RPA][56] - listening for inputs
+[RPA][57] - dump exist_result to rpa_python.txt
+[RPA][57] - listening for inputs
+[RPA][58] - click monitor.png
+[RPA][58] - listening for inputs
+[RPA][59] - exist_result = exist('filtroSESI.png').toString()
+[RPA][59] - listening for inputs
+[RPA][60] - dump exist_result to rpa_python.txt
+[RPA][60] - listening for inputs
+[RPA][61] - click filtroSESI.png
+[RPA][61] - listening for inputs
+[RPA][62] - exist_result = exist('filtrar.png').toString()
+[RPA][62] - listening for inputs
+[RPA][63] - dump exist_result to rpa_python.txt
+[RPA][63] - listening for inputs
+[RPA][64] - click filtrar.png
+[RPA][64] - listening for inputs
+[RPA][65] - present_result = present('salvarRelatorio.png').toString()
+[RPA][65] - listening for inputs
+[RPA][66] - dump present_result to rpa_python.txt
+[RPA][66] - listening for inputs
+[RPA][67] - exist_result = exist('salvarRelatorio.png').toString()
+[RPA][67] - listening for inputs
+[RPA][68] - dump exist_result to rpa_python.txt
+[RPA][68] - listening for inputs
+[RPA][69] - click salvarRelatorio.png
+[RPA][69] - listening for inputs
+[RPA][70] - exist_result = exist('esteComputador.png').toString()
+[RPA][70] - listening for inputs
+[RPA][71] - dump exist_result to rpa_python.txt
+[RPA][71] - listening for inputs
+[RPA][72] - click esteComputador.png
+[RPA][72] - listening for inputs
+[RPA][73] - exist_result = exist('unidadeC.png').toString()
+[RPA][73] - listening for inputs
+[RPA][74] - dump exist_result to rpa_python.txt
+[RPA][74] - listening for inputs
+[RPA][75] - dclick unidadeC.png
+[RPA][75] - listening for inputs
+[RPA][76] - exist_result = exist('pastaUsuarios.png').toString()
+[RPA][76] - listening for inputs
+[RPA][77] - dump exist_result to rpa_python.txt
+[RPA][77] - listening for inputs
+[RPA][78] - dclick pastaUsuarios.png
+[RPA][78] - listening for inputs
+[RPA][79] - exist_result = exist('pastaLucasGomes.png').toString()
+[RPA][79] - listening for inputs
+[RPA][80] - dump exist_result to rpa_python.txt
+[RPA][80] - listening for inputs
+[RPA][81] - dclick pastaLucasGomes.png
+[RPA][81] - listening for inputs
+[RPA][82] - exist_result = exist('areaDeTrabalho.png').toString()
+[RPA][82] - listening for inputs
+[RPA][83] - dump exist_result to rpa_python.txt
+[RPA][83] - listening for inputs
+[RPA][84] - dclick areaDeTrabalho.png
+[RPA][84] - listening for inputs
+[RPA][85] - present_result = present('nomeDoArquivo.png').toString()
+[RPA][85] - listening for inputs
+[RPA][86] - dump present_result to rpa_python.txt
+[RPA][86] - listening for inputs
+[RPA][87] - exist_result = exist('nomeDoArquivo.png').toString()
+[RPA][87] - listening for inputs
+[RPA][88] - dump exist_result to rpa_python.txt
+[RPA][88] - listening for inputs
+[RPA][89] - click nomeDoArquivo.png
+[RPA][89] - listening for inputs
+[RPA][90] - exist_result = exist('nomeDoArquivo.png').toString()
+[RPA][90] - listening for inputs
+[RPA][91] - dump exist_result to rpa_python.txt
+[RPA][91] - listening for inputs
+[RPA][92] - click nomeDoArquivo.png
+[RPA][92] - listening for inputs
+[RPA][93] - exist_result = exist('tipoDeArquivo.png').toString()
+[RPA][93] - listening for inputs
+[RPA][94] - dump exist_result to rpa_python.txt
+[RPA][94] - listening for inputs
+[RPA][95] - click tipoDeArquivo.png
+[RPA][95] - listening for inputs
+[RPA][96] - exist_result = exist('arquivoTipoExcel.png').toString()
+[RPA][96] - listening for inputs
+[RPA][97] - dump exist_result to rpa_python.txt
+[RPA][97] - listening for inputs
+[RPA][98] - click arquivoTipoExcel.png
+[RPA][98] - listening for inputs
+[RPA][99] - exist_result = exist('salvarXLSX.png').toString()
+[RPA][99] - listening for inputs
+[RPA][100] - dump exist_result to rpa_python.txt
+[RPA][100] - listening for inputs
+[RPA][101] - click salvarXLSX.png
+[RPA][101] - listening for inputs
+[RPA][102] - present_result = present('bennerInativo.png').toString()
+[RPA][102] - listening for inputs
+[RPA][103] - dump present_result to rpa_python.txt
+[RPA][103] - listening for inputs
+[RPA][104] - exist_result = exist('bennerInativo.png').toString()
+[RPA][104] - listening for inputs
+[RPA][105] - dump exist_result to rpa_python.txt
+[RPA][105] - listening for inputs
+[RPA][106] - rclick bennerInativo.png
+[RPA][106] - listening for inputs
+[RPA][107] - exist_result = exist('fecharJanela.png').toString()
+[RPA][107] - listening for inputs
+[RPA][108] - dump exist_result to rpa_python.txt
+[RPA][108] - listening for inputs
+[RPA][109] - click fecharJanela.png
+[RPA][109] - listening for inputs
+[RPA][110] - present_result = present('excelAberto2.png').toString()
+[RPA][110] - listening for inputs
+[RPA][111] - dump present_result to rpa_python.txt
+[RPA][111] - listening for inputs
+[RPA][112] - present_result = present('barraDePesquisa.png').toString()
+[RPA][112] - listening for inputs
+[RPA][113] - dump present_result to rpa_python.txt
+[RPA][113] - listening for inputs
+[RPA][114] - exist_result = exist('barraDePesquisa.png').toString()
+[RPA][114] - listening for inputs
+[RPA][115] - dump exist_result to rpa_python.txt
+[RPA][115] - listening for inputs
+[RPA][116] - click barraDePesquisa.png
+[RPA][116] - listening for inputs
+[RPA][117] - present_result = present('pesquisarConferencia.png').toString()
+[RPA][117] - listening for inputs
+[RPA][118] - dump present_result to rpa_python.txt
+[RPA][118] - listening for inputs
+[RPA][119] - exist_result = exist('pesquisarConferencia.png').toString()
+[RPA][119] - listening for inputs
+[RPA][120] - dump exist_result to rpa_python.txt
+[RPA][120] - listening for inputs
+[RPA][121] - click pesquisarConferencia.png
+[RPA][121] - listening for inputs
+[RPA][122] - present_result = present('selecionarDados.png').toString()
+[RPA][122] - listening for inputs
+[RPA][123] - dump present_result to rpa_python.txt
+[RPA][123] - listening for inputs
+[RPA][124] - exist_result = exist('selecionarRelatorio.png').toString()
+[RPA][124] - listening for inputs
+[RPA][125] - dump exist_result to rpa_python.txt
+[RPA][125] - listening for inputs
+[RPA][126] - dclick selecionarRelatorio.png
+[RPA][126] - listening for inputs
+[RPA][127] - present_result = present('sorriso.png').toString()
+[RPA][127] - listening for inputs
+[RPA][128] - dump present_result to rpa_python.txt
+[RPA][128] - listening for inputs
+[RPA][129] - present_result = present('coluna1Presente.png').toString()
+[RPA][129] - listening for inputs
+[RPA][130] - dump present_result to rpa_python.txt
+[RPA][130] - listening for inputs
+[RPA][131] - present_result = present('transformarAberto.png').toString()
+[RPA][131] - listening for inputs
+[RPA][132] - dump present_result to rpa_python.txt
+[RPA][132] - listening for inputs
+[RPA][133] - present_result = present('filtroColuna.png').toString()
+[RPA][133] - listening for inputs
+[RPA][134] - dump present_result to rpa_python.txt
+[RPA][134] - listening for inputs
+[RPA][135] - exist_result = exist('filtroColuna.png').toString()
+[RPA][135] - listening for inputs
+[RPA][136] - dump exist_result to rpa_python.txt
+[RPA][136] - listening for inputs
+[RPA][137] - click filtroColuna.png
+[RPA][137] - listening for inputs
+[RPA][138] - present_result = present('pesquisarFiltro.png').toString()
+[RPA][138] - listening for inputs
+[RPA][139] - dump present_result to rpa_python.txt
+[RPA][139] - listening for inputs
+[RPA][140] - exist_result = exist('pesquisarFiltro.png').toString()
+[RPA][140] - listening for inputs
+[RPA][141] - dump exist_result to rpa_python.txt
+[RPA][141] - listening for inputs
+[RPA][142] - click pesquisarFiltro.png
+[RPA][142] - listening for inputs
+[RPA][143] - present_result = present('clicarNulo.png').toString()
+[RPA][143] - listening for inputs
+[RPA][144] - dump present_result to rpa_python.txt
+[RPA][144] - listening for inputs
+[RPA][145] - exist_result = exist('clicarNulo.png').toString()
+[RPA][145] - listening for inputs
+[RPA][146] - dump exist_result to rpa_python.txt
+[RPA][146] - listening for inputs
+[RPA][147] - click clicarNulo.png
+[RPA][147] - listening for inputs
+[RPA][148] - exist_result = exist('apagar.png').toString()
+[RPA][148] - listening for inputs
+[RPA][149] - dump exist_result to rpa_python.txt
+[RPA][149] - listening for inputs
+[RPA][150] - present_result = present('clicarCod.png').toString()
+[RPA][150] - listening for inputs
+[RPA][151] - dump present_result to rpa_python.txt
+[RPA][151] - listening for inputs
+[RPA][152] - exist_result = exist('clicarCod.png').toString()
